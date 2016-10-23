@@ -1,0 +1,16 @@
+{
+  "name": "gcrd-2016-no-return",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ava": "^0.16.0",
+    "gol": "^0.1.0",
+    "lodash": "^4.16.4"
+  }
+}
