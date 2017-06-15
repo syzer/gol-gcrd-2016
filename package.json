@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ava": "^0.16.0",
+    "ava": "^0.19.1",
     "gol": "^0.1.0",
     "lodash": "^4.16.4"
   }
